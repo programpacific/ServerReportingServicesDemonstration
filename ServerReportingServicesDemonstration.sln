@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ServerReportingServicesDemonstration", "ServerReportingServicesDemonstration\ServerReportingServicesDemonstration.rptproj", "{B89946B5-8A20-4797-ACD6-82A43CEAE3D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89946B5-8A20-4797-ACD6-82A43CEAE3D3}.Debug|Default.ActiveCfg = Debug
+		{B89946B5-8A20-4797-ACD6-82A43CEAE3D3}.Debug|Default.Build.0 = Debug
+		{B89946B5-8A20-4797-ACD6-82A43CEAE3D3}.Debug|Default.Deploy.0 = Debug
+		{B89946B5-8A20-4797-ACD6-82A43CEAE3D3}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{B89946B5-8A20-4797-ACD6-82A43CEAE3D3}.DebugLocal|Default.Build.0 = DebugLocal
+		{B89946B5-8A20-4797-ACD6-82A43CEAE3D3}.Release|Default.ActiveCfg = Release
+		{B89946B5-8A20-4797-ACD6-82A43CEAE3D3}.Release|Default.Build.0 = Release
+		{B89946B5-8A20-4797-ACD6-82A43CEAE3D3}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C24D6CE6-A7BA-4857-B8F8-5925E3E4885F}
+	EndGlobalSection
+EndGlobal
